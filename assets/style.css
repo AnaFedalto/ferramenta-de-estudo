@@ -1,0 +1,10 @@
+body {
+    background-color: blueviolet;
+}
+footer {
+    background-color: crimson;
+    color: blue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
