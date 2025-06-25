@@ -1,10 +1,10 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(195, 156, 231);
     font-family: Carrois Gothic;
 }
 footer {
-    background-color: crimson;
-    color: blue;
+    background-color: rgb(226, 163, 226);
+    color: rgb(0, 0, 0);
     position: fixed;
     bottom: 0;
     width: 100%;
