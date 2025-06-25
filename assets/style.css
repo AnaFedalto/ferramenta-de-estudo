@@ -2,6 +2,19 @@ body {
     background-color: rgb(195, 156, 231);
     font-family: Carrois Gothic;
 }
+
+#container {
+    display: flex;
+}
+
+.cartao{
+    margin: 1rem 1rem;
+    background-color: antiquewhite;
+    height: 20rem;
+    flex-grow: 1 ;
+    flex-basis: calc(33%-6rem);
+}
+
 footer {
     background-color: rgb(226, 163, 226);
     color: rgb(0, 0, 0);
