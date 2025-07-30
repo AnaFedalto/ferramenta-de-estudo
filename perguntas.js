@@ -7,9 +7,7 @@ criaCartao(
 criaCartao(
     'Karate',
     'O que é o kata?',
-    'É uma sequência pré-definida de movimentos que simulam um combate contra oponentes imaginários. 
-    É uma forma de treinamento que visa aprimorar a técnica, a postura, a coordenação e o foco, 
-    além de preservar a história e a filosofia da arte marcial.'
+    'É uma sequência pré-definida de movimentos que simulam um combate contra oponentes imaginários.É uma forma de treinamento que visa aprimorar a técnica, a postura, a coordenação e o foco, além de preservar a história e a filosofia da arte marcial.'
 )
 
 criaCartao(
