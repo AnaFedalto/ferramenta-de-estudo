@@ -5,13 +5,14 @@ function criaCartao(categoria, pergunta, resposta) {
 
   cartao.innerHTML= `
    <div class="cartao__conteudo">
-                    <h3>Karate</h3>
+                    <h3>${categoria}</h3>
                     <div class="cartao__conteudo__pergunta">
-                        <p> Onde surgiu o karatê? </p>
+                        <p>${pergunta}</p>
                     </div>
                     <div class="cartao__conteudo__resposta">
-                        <p>O karatê surgiu na ilha de Okinawa, no Japão</p>
+                        <p>${resposta}</p>
                     </div>
                 </div>
                 `
+ container.appendChild(cartao)
 }
