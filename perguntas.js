@@ -16,3 +16,22 @@ criaCartao(
 'O karatê surgiu na ilha de Okinawa, no Japão'
 
 )
+
+criaCartao(
+'Karate',
+'O que significa a palavra "karatê"? ',
+'Mãos vazias.'
+
+)
+
+criaCartao(
+'Karate',
+'Qual é o objetivo principal do karatê: atacar, defender ou ambos?',
+'Ambos (com foco na defesa)'
+)
+
+criaCartao(
+'Karate',
+'As faixas no karatê indicam o quê?',
+'O nível ou grau de habilidade do praticante'
+)
