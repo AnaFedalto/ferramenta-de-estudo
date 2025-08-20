@@ -26,7 +26,7 @@ criaCartao(
 
 criaCartao(
 'Karate',
-'Qual é o objetivo principal do karatê: atacar, defender ou ambos?',
+'Qual é o objetivo principal do karatê: atacar ou defender?',
 'Ambos (com foco na defesa)'
 )
 
